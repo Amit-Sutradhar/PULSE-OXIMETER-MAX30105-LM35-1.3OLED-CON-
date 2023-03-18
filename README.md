@@ -21,7 +21,7 @@ CUNNECTION
 -     -             -                   DATA pin          -            A0
 
 
--     -              -                  -                 DATA          D7 {GPIO(130}
+-     -              -                  -                 DATA          D7 {GPIO(13)}
 
 
 -     VCC (3.5V)      5V                5V                5V            5V
