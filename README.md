@@ -9,17 +9,19 @@ THIS IS A IOT BASED PULSE OXIMETER , in this project we will use LM35 SENSOR to 
 ---------------+----------------
 CUNNECTION 
 
-MAX30105      OLED                LM35            BUZAAR         ESP8266
-
-SCL -         SCL-                -                 -            D1(SCL)
-
-SDA -         SDA-                -                 -             D2(SDA)
+-     MAX30105      OLED                LM35            BUZAAR         ESP8266
 
 
--             -                   DATA pin          -            A0
+-     SCL -         SCL-                -                 -            D1(SCL)
 
 
--              -                  -                 DATA          D7 {GPIO(130}
+-     SDA -         SDA-                -                 -             D2(SDA)
 
 
-VCC (3.5V)      5V                5V                5V            5V
+-     -             -                   DATA pin          -            A0
+
+
+-     -              -                  -                 DATA          D7 {GPIO(130}
+
+
+-     VCC (3.5V)      5V                5V                5V            5V
