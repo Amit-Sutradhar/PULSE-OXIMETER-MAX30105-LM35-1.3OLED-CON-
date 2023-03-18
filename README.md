@@ -3,7 +3,8 @@
 
 
 
-THIS IS A IOT BASED PULSE OXIMETER , in this project we will use LM35 SENSOR to measure temperature / max30105 to measure BPM and HR and we will show the output on 1.3OLED display to show the output ,, and if you have internet then you can show the output  on (http://consentiuminc.online).but currently SPO2 part was not working but we will work on it .
+THIS IS A IOT BASED PULSE OXIMETER , in this project we will use LM35 SENSOR to measure temperature / max30105 to measure BPM and HR and we will show the output on 1.3OLED display 
+And if you have internet then you can show the output  on (http://consentiuminc.online).but currently SPO2 part was not working but we will work on it .
 
 
 ---------------+----------------
