@@ -19,7 +19,7 @@ float beatsPerMinute;
 int beatAvg;
 
 const int LM35_PIN = A0; // Pin where LM35 temperature sensor is connected
-const char *ssid = "ABBE SALE"; // Add WiFi SSID
+const char *ssid = "AMIT"; // Add WiFi SSID
 const char *pass = "1234alibaba.com"; // Add WiFi password
 const char *key = "EZIIOZC8MTPDGWGSHEDSZA"; // Add Write API key
 const long interval = 5; // Take 5 seconds of delay
